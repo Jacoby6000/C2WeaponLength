@@ -1,0 +1,9 @@
+{
+  "repo_url": "https://github.com/Chiv2-Community/weaponLength",
+  "name": "WeaponLength",
+  "description": "Test the length of weapons using continuous binary search",
+  "mod_type": "Shared",
+  "authors": [ "DrLong" ],
+  "dependencies": [],
+  "tags": [ "Map" ]
+}
